@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,xmmeiyou.com
   - DOMAIN-SUFFIX,meiyou.com
   - DOMAIN-SUFFIX,youzibuy.com
+  - IP-CIDR,118.31.232.0/24
