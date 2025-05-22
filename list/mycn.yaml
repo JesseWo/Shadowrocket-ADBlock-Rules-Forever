@@ -6,3 +6,9 @@ payload:
   - DOMAIN-SUFFIX,youzibuy.com
   - DOMAIN-SUFFIX,oss-cn-hangzhou.aliyuncs.com
   - IP-CIDR,118.31.232.0/24
+  #xiaomi
+  - DOMAIN-SUFFIX,io.mi.com
+  - DOMAIN-SUFFIX,xiaomi.com
+  - DOMAIN-SUFFIX,xiaomixiaoai.com
+  - IP-CIDR,111.48.135.0/24
+
