@@ -11,4 +11,8 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomixiaoai.com
   - IP-CIDR,111.48.135.0/24
+  # weibo
+  - DOMAIN-SUFFIX,weibo.cn
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,sina.com
 
