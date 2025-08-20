@@ -14,5 +14,8 @@ payload:
   # weibo
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com
+  # - DOMAIN-SUFFIX,weibocdn.com
   - DOMAIN-SUFFIX,sina.com
+  # - DOMAIN-SUFFIX,sinaimg.cn
+  - IP-CIDR,36.51.224.0/24
 
